@@ -1,0 +1,57 @@
+.welcome{
+    padding-left: 50px;
+    font-size:30px;
+    margin-bottom: 20px;
+}
+.email{
+    margin-bottom: 15px;
+    width:290px;
+    font-size:30px;
+    border-radius:30px;
+    height:30px;
+    
+
+}
+.password{
+    color:white;
+    margin-bottom: 10px;
+    width:300px;
+    height:30px;
+    border-radius:20px;
+
+}
+.login{
+    color:white;
+    margin-bottom: 10px;
+    width:300px;
+    height:30px;
+    background-color:blue;
+    border-radius:20px;
+}
+.Google{
+    color:white;
+    margin-bottom:10px;
+    width:300px;
+    height:30px;
+    background-color:red;
+    border-radius:20px;
+    text-align: center;
+}
+.Facebook{
+    color:white;
+    margin-bottom:10px;
+    width:300px;
+    height:30px;
+    background-color:blue;
+    border-radius:20px;
+    text-align:center;
+}
+.forgot{
+    color:blue;
+}
+.create{
+    color:blue;
+}
+    
+    
+    
